@@ -1,7 +1,7 @@
 #include <Adafruit_NeoPixel.h>
 
 #define PIN 1
-#define NUM_LEDS 2
+#define NUM_LEDS 17
 
 Adafruit_NeoPixel pixels = Adafruit_NeoPixel(NUM_LEDS, PIN);
 
